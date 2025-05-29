@@ -1,2 +1,2 @@
-#open_gl_demo
+# open_gl_demo
 coded in c++
