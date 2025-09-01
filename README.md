@@ -31,7 +31,12 @@ coded in c++, vscode, mac
 ```
 
 Created a circle using a set of triangles.
+
 steps = # of slices
+
 angle Beta = 2pi / steps
+
 Initial point on X,Y rotated by angle beta
-projection of new rotated point R _ sin(B) (X), -R _ cos(B) (Y)
+
+projection of new rotated point R _ sin(B) (X), -R
+_ cos(B) (Y)
