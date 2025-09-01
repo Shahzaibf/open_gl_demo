@@ -1,6 +1,6 @@
 # open_gl_demo
 
-coded in c++, vscode
+coded in c++, vscode, mac
 
 ```
 "args": [
@@ -29,3 +29,9 @@ coded in c++, vscode
 				"-Wno-deprecated",
 			],
 ```
+
+Created a circle using a set of triangles.
+steps = # of slices
+angle Beta = 2pi / steps
+Initial point on X,Y rotated by angle beta
+projection of new rotated point R _ sin(B) (X), -R _ cos(B) (Y)
